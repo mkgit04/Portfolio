@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mkgit04.github.io/sitemap.xml
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
