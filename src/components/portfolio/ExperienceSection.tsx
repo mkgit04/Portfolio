@@ -33,7 +33,7 @@ const ExperienceSection = () => {
     {
       role: isArabic ? "متدرب Flutter" : "Flutter Developer Intern",
       company: "DEPI (Digital Egypt Pioneers Initiative)",
-      period: isArabic ? "نوفمبر 2025 - الآن" : "Nov 2025 - Present",
+      period: isArabic ? "نوفمبر 2025 - يوليو 2026" : "Nov 2025 - Jul 2026",
       industryPreview: depiImage,
       points: isArabic
         ? [
