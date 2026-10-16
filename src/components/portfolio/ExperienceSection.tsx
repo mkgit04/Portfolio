@@ -33,7 +33,7 @@ const ExperienceSection = () => {
     {
       role: isArabic ? "متدرب Flutter" : "Flutter Developer Intern",
       company: "DEPI (Digital Egypt Pioneers Initiative)",
-      period: isArabic ? "نوفمبر 2025 - يوليو 2026" : "Nov 2025 - Jul 2026",
+      period: isArabic ? "نوفمبر 2025 - يوليو 2026 (8 شهور)" : "Nov 2025 - Jul 2026 (8 months)",
       industryPreview: depiImage,
       points: isArabic
         ? [
@@ -52,7 +52,7 @@ const ExperienceSection = () => {
     {
       role: isArabic ? "متدرب Full Stack PHP" : "Full Stack PHP Developer Trainee",
       company: isArabic ? "المعهد القومي للاتصالات (NTI)" : "National Telecommunication Institute (NTI)",
-      period: isArabic ? "يوليو 2025 - أغسطس 2025" : "Jul 2025 - Aug 2025",
+      period: isArabic ? "يوليو 2025 - أغسطس 2025 (1 شهر)" : "Jul 2025 - Aug 2025 (1 month)",
       industryPreview: ntiImage,
       points: isArabic
         ? [
