@@ -9,13 +9,13 @@ const EducationSection = () => {
   const education = [
     {
       degree: isArabic ? "بكالوريوس علوم الحاسب" : "Bachelor of Science in Computer Science",
-      institution: isArabic ? "جامعة المنوفية" : "Monufia University",
-      period: isArabic ? "2022 - 2026 (متوقع)" : "2022 - 2026 (Expected)",
-      gpa: "3.12/4.0",
-      gpaGrade: isArabic ? "جيد جداً (B+)" : "Very Good (B+)",
+      institution: isArabic ? "جامعة المنوفية" : "Menoufia University",
+      period: isArabic ? "2022 - 2026 (خريج)" : "2022 - 2026 (Graduated)",
+      gpa: "3.21/4.0",
+      gpaGrade: isArabic ? "جيد جداً (B)" : "Very Good (B)",
       description: isArabic
-        ? "أركز على هندسة البرمجيات والخوارزميات وهياكل البيانات وتطوير تطبيقات الموبايل، مع الحفاظ على مستوى أكاديمي قوي بالتوازي مع تنفيذ مشاريع عملية."
-        : "Focusing on software engineering, algorithms, data structures, and mobile development. Maintaining a strong academic record while building real-world projects.",
+  ? "أمتلك خبرة في تطوير تطبيقات الموبايل وهندسة البرمجيات، مع اهتمام بهياكل البيانات والخوارزميات، وتطبيق المفاهيم النظرية في بناء مشاريع عملية."
+  : "Experienced in mobile application development and software engineering, with a strong interest in data structures and algorithms, applying theoretical concepts to practical projects.",
     },
   ];
 

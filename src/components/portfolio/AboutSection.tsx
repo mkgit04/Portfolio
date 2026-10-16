@@ -76,7 +76,7 @@ const AboutSection = () => {
             <p className="text-muted-foreground leading-relaxed mb-4">
               {isArabic
                 ? "أنا مطور Flutter وقد أنهيت امتحانات السنة الرابعة بكلية الحاسبات والمعلومات بجامعة المنوفية. أمتلك شغفًا بتطوير تطبيقات الموبايل وبناء حلول برمجية عملية."
-                : "I am a Flutter Developer who has completed fourth-year exams at the Faculty of Computers and Information, Monufia University, with a strong passion for mobile development and building practical software solutions."}
+                : "I am a Flutter Developer who has completed fourth-year exams at the Faculty of Computers and Information, Menoufia University, with a strong passion for mobile development and building practical software solutions."}
             </p>
 
             <p className="text-muted-foreground leading-relaxed mb-4">

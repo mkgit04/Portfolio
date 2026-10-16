@@ -9,7 +9,7 @@ I am a passionate Flutter developer and third-year Computer Science student focu
 
 ## 🚀 About Me
 
-I am currently studying Computer Science at the Faculty of Computers and Information, Monufia University.
+I am currently studying Computer Science at the Faculty of Computers and Information, Menoufia University.
 
 I specialize in:
 - Cross-platform mobile development using Flutter
@@ -25,7 +25,7 @@ I am continuously improving my technical and problem-solving skills through acad
 ## 🎓 Education
 
 **Bachelor of Computer Science**  
-Faculty of Computers and Information – Monufia University  
+Faculty of Computers and Information – Menoufia University  
 Expected Graduation: 2027  
 GPA: 3.04
 
